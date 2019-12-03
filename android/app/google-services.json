@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546137246195",
+    "firebase_url": "https://garagesalesv-cb47a.firebaseio.com",
+    "project_id": "garagesalesv-cb47a",
+    "storage_bucket": "garagesalesv-cb47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546137246195:android:7e6560df071216b800ea86",
+        "android_client_info": {
+          "package_name": "com.example.garagesalesv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546137246195-ijfjju3t6h7fbah6l4jen0uf9avbpfto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgu2O8N8HYnab1Dh1Fg0zBnVcMJwP04Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546137246195-ijfjju3t6h7fbah6l4jen0uf9avbpfto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
